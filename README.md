@@ -7,7 +7,7 @@
 
 ## Live preview
 
-https://fbertone-fcc-imagesearch.herokuapp.com/
+https://fbertone-fcc-filesize.herokuapp.com/
 
 ## Info
 
